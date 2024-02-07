@@ -3,11 +3,11 @@
 
 # Pastas
 
-- Dataset: contem o arquivo **banvic.zip** as 7 base de dados(agencias.csv | clientes.csv | colaborador_agencia.csv |colaboradores.csv | contas.csv | propostas_credito.csv |transacoes.csv)
+- **Dataset:** contem o arquivo **banvic.zip** as 7 base de dados(agencias.csv | clientes.csv | colaborador_agencia.csv |colaboradores.csv | contas.csv | propostas_credito.csv |transacoes.csv)
 
-- Imagem: contém os graficos das:  Análise Exploratória de Dados |  Análise dos Dados |  Análise de Séries Temporais: Utilizando uma Rede Neural Recorrente (RNN) |  Propostas de Valor | Indicadores e Visualizações e muito mais.
+- **Imagem:** contém os graficos das:  Análise Exploratória de Dados |  Análise dos Dados |  Análise de Séries Temporais: Utilizando uma Rede Neural Recorrente (RNN) |  Propostas de Valor | Indicadores e Visualizações e muito mais.
 
-- Processamento: Contém o arquivo **LH_EA_GENESIO_MOREIRA_COUTINHO_DOS_SANTOS.ipynb**, onde tem todos os passos do Carregamento, Transformação e Extração (ETL) em Python foi realizado no Google Colab. Link: https://colab.research.google.com/drive/1_-58lPshxb7QxPCh2BJq7E2bJlfNXjZ5?usp=sharing
+- **Processamento:** Contém o arquivo **LH_EA_GENESIO_MOREIRA_COUTINHO_DOS_SANTOS.ipynb**, onde tem todos os passos do Carregamento, Transformação e Extração (ETL) em Python foi realizado no Google Colab. Link: https://colab.research.google.com/drive/1_-58lPshxb7QxPCh2BJq7E2bJlfNXjZ5?usp=sharing
 
 # DashBoard
 O dashboard foi feito no Google Data Studio, com as principais métricas KPI'S, por Agência, Data e Clientes.
