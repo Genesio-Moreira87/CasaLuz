@@ -11,4 +11,4 @@
 
 # DashBoard
 O dashboard foi feito no Google Data Studio, cpm as principais metricas KPI'S, por Agência, Data e Clientes.
-POde ser acessado no link: https://lookerstudio.google.com/reporting/da12e5d2-6e22-4ed3-aebc-4e5fdb03c736
+Pode ser acessado no link: https://lookerstudio.google.com/reporting/da12e5d2-6e22-4ed3-aebc-4e5fdb03c736
